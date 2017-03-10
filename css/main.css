@@ -1,7 +1,6 @@
 <style>
 html{
-	width:100;
-	margin:0;
+	width: 100%;
 }
 
 body{
@@ -23,7 +22,7 @@ h1{
 	margin: 0;
 	height: 90%;
 	width:100%;
-	background: url('../bg1.jpg');
+	background: url("../img/bg1.jpg");
 	background-size:cover;
 }
 
